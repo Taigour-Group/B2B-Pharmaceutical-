@@ -1,0 +1,6 @@
+{
+  "name": "Janakpur PharmaDistro - B2B Medicine Wholesale Platform",
+  "description": "Authorized B2B pharmaceutical wholesale distribution and pharmacy ordering platform serving verified pharmacies, clinics, and hospitals in Janakpur and Madhesh Province, Nepal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
